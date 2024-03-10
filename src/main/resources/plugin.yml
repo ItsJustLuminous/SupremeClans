@@ -1,0 +1,4 @@
+name: SupremeClans
+version: '${project.version}'
+main: com.callum.supremeclans.SupremeClans
+api-version: '1.20'
